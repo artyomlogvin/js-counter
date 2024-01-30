@@ -5,3 +5,10 @@
     justify-content: center;
     align-items: center;
 }
+
+.header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+    color: #5B5EA6;
+    font-weight: bold;
+}
